@@ -1,4 +1,9 @@
 
+##Jim Holland
+##October 2, 2018
+
+
+
 use sakila;
 
 SELECT first_name, last_name FROM actor;
